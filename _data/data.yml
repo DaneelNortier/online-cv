@@ -31,9 +31,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom:
-        level:
-
     interests:
       - item: Modular Origami
         link:
@@ -43,11 +40,6 @@ sidebar:
 
       - item: Gaming
         link:
-
-career-profile:
-    title:
-    summary: |
-
 education:
     - degree: BSc Mathematics
       university: University of Pretoria
@@ -56,19 +48,6 @@ education:
     - degree: High School Diploma
       university: Pretoria Boys High School
       time: 2013 - 2017
-      details:
-experiences:
-    - role:
-      time:
-      company:
-      details:
-    - role:
-      time:
-      company:
-      details:
-    - role:
-      time:
-      company:
       details:
 projects:
     title: Projects
@@ -79,41 +58,6 @@ projects:
         tagline: "Mouthpiece is a fun phone app that synchronizes the lip movements of an animated image of a mouth with
                   a voice stream recorded using the phone’s microphone. The Mouthpiece is accompanied by a web service to
                   support the installation, configuration and customization of Mouthpiece"
-
-      - title:
-        link:
-        tagline:
-
-      - title: Tempo
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-publications:
-    title:
-    intro:
-    papers:
-      - title:
-        link:
-        authors:
-        conference:
-
-      - title:
-        link:
-        authors:
-        conference:
-
-      - title:
-        link:
-        authors:
-        conference:
 
 skills:
     title: Skills &amp; Proficiency
