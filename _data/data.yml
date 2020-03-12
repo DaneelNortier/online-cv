@@ -38,8 +38,12 @@ sidebar:
       - item: Cycling
         link:
 
-      - item: Gaming
-        link:
+career-profile:
+  title: Career Profile
+  summary: |
+    I am currently studying BSc Mathematics at the University of Pretoria, as well as taking Computer Science modules,
+    with the goal of completing my Honours in computer science.
+    
 education:
     - degree: BSc Mathematics
       university: University of Pretoria
@@ -68,5 +72,11 @@ skills:
 
       - name: C++
         level: 80%
+
+      - name: Python
+        level: 65%
+
+      - name: Assembly
+        level: 50%
 
 footer:
